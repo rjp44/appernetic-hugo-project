@@ -1,7 +1,8 @@
 +++
-date = "2017-06-04T12:57:05Z"
+date = "2017-06-04T15:05:18Z"
 title = "about"
-draft = true
+draft = false
 
 +++
-My About page
+
+My About page
